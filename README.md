@@ -1424,3 +1424,4 @@
   </script>
 </body>
 </html>
+<img width="2550" height="3300" alt="Rangga2" src="https://github.com/user-attachments/assets/c3bfc31d-b236-4eeb-8340-b2707d1dfe2f" />
